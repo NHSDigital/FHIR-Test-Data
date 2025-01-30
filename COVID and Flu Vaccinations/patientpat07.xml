@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patient xmlns="http://hl7.org/fhir">
+   <id value="pat07"/>
+   <identifier>
+      <system value="https://fhir.nhs.uk/Id/nhs-number"/>
+      <value value="9435783309"/>
+   </identifier>
+   <name>
+      <family value="Mason"/>
+      <given value="Peter"/>
+   </name>
+   <gender value="m"/>
+   <birthDate value=""/>
+   <address>
+      <line value="17 George Street"/>
+      <city value="DARLINGTON"/>
+      <postalCode value=""/>
+   </address>
+</Patient>

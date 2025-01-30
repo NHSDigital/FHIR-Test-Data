@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patient xmlns="http://hl7.org/fhir">
+   <id value="pat06"/>
+   <identifier>
+      <system value="https://fhir.nhs.uk/Id/nhs-number"/>
+      <value value="9435815065"/>
+   </identifier>
+   <name>
+      <family value="Lakhani"/>
+      <given value="Georgina"/>
+   </name>
+   <gender value="f"/>
+   <birthDate value=""/>
+   <address>
+      <line value="4 Mill Lane"/>
+      <city value="NORTHAMPTON"/>
+      <postalCode value=""/>
+   </address>
+</Patient>

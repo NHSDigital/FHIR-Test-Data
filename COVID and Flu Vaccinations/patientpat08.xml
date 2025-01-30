@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patient xmlns="http://hl7.org/fhir">
+   <id value="pat08"/>
+   <identifier>
+      <system value="https://fhir.nhs.uk/Id/nhs-number"/>
+      <value value="9435741894"/>
+   </identifier>
+   <name>
+      <family value="Page"/>
+      <given value="Lorraine"/>
+   </name>
+   <gender value="f"/>
+   <birthDate value=""/>
+   <address>
+      <line value="49 North Street"/>
+      <city value="REDHILL"/>
+      <postalCode value=""/>
+   </address>
+</Patient>

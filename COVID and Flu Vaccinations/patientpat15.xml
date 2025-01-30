@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patient xmlns="http://hl7.org/fhir">
+   <id value="pat15"/>
+   <identifier>
+      <system value="https://fhir.nhs.uk/Id/nhs-number"/>
+      <value value="9435758649"/>
+   </identifier>
+   <name>
+      <family value="Hewitt"/>
+      <given value="Alastair"/>
+   </name>
+   <gender value="m"/>
+   <birthDate value=""/>
+   <address>
+      <line value="17 Queensway"/>
+      <city value="ABERDEEN"/>
+      <postalCode value=""/>
+   </address>
+</Patient>

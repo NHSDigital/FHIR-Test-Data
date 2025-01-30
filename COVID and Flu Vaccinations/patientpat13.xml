@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patient xmlns="http://hl7.org/fhir">
+   <id value="pat13"/>
+   <identifier>
+      <system value="https://fhir.nhs.uk/Id/nhs-number"/>
+      <value value="9435807194"/>
+   </identifier>
+   <name>
+      <family value="Knipe"/>
+      <given value="Adrienne"/>
+   </name>
+   <gender value="f"/>
+   <birthDate value=""/>
+   <address>
+      <line value="40 Victoria Road"/>
+      <city value="CREWE"/>
+      <postalCode value=""/>
+   </address>
+</Patient>

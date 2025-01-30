@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patient xmlns="http://hl7.org/fhir">
+   <id value="pat12"/>
+   <identifier>
+      <system value="https://fhir.nhs.uk/Id/nhs-number"/>
+      <value value="5560006033"/>
+   </identifier>
+   <name>
+      <family value="Lee"/>
+      <given value="Janet"/>
+   </name>
+   <gender value="f"/>
+   <birthDate value=""/>
+   <address>
+      <line value="97 Kingsway"/>
+      <city value="DUDLEY"/>
+      <postalCode value=""/>
+   </address>
+</Patient>

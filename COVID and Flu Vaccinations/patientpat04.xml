@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patient xmlns="http://hl7.org/fhir">
+   <id value="pat04"/>
+   <identifier>
+      <system value="https://fhir.nhs.uk/Id/nhs-number"/>
+      <value value="9435732992"/>
+   </identifier>
+   <name>
+      <family value="Hawkins"/>
+      <given value="Elaine"/>
+   </name>
+   <gender value="f"/>
+   <birthDate value=""/>
+   <address>
+      <line value="43 West Street"/>
+      <city value="TRURO"/>
+      <postalCode value=""/>
+   </address>
+</Patient>

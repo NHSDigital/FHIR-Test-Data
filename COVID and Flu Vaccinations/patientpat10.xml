@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patient xmlns="http://hl7.org/fhir">
+   <id value="pat10"/>
+   <identifier>
+      <system value="https://fhir.nhs.uk/Id/nhs-number"/>
+      <value value="9435764428"/>
+   </identifier>
+   <name>
+      <family value="Rogers"/>
+      <given value="Anne"/>
+   </name>
+   <gender value="f"/>
+   <birthDate value=""/>
+   <address>
+      <line value="20 Springfield Road"/>
+      <city value="WESTERN CENTRAL LONDON"/>
+      <postalCode value=""/>
+   </address>
+</Patient>

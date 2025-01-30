@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patient xmlns="http://hl7.org/fhir">
+   <id value="pat09"/>
+   <identifier>
+      <system value="https://fhir.nhs.uk/Id/nhs-number"/>
+      <value value="9435775039"/>
+   </identifier>
+   <name>
+      <family value="Robb"/>
+      <given value="Jonathan"/>
+   </name>
+   <gender value="m"/>
+   <birthDate value=""/>
+   <address>
+      <line value="636 South Street"/>
+      <city value="TORQUAY"/>
+      <postalCode value=""/>
+   </address>
+</Patient>

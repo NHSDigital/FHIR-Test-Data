@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patient xmlns="http://hl7.org/fhir">
+   <id value="pat02"/>
+   <identifier>
+      <system value="https://fhir.nhs.uk/Id/nhs-number"/>
+      <value value="9435792103"/>
+   </identifier>
+   <name>
+      <family value="Flannery"/>
+      <given value="Karen"/>
+   </name>
+   <gender value="f"/>
+   <birthDate value=""/>
+   <address>
+      <line value="56 Park Avenue"/>
+      <city value="LINCOLN"/>
+      <postalCode value=""/>
+   </address>
+</Patient>

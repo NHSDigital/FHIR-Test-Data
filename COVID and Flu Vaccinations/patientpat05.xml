@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patient xmlns="http://hl7.org/fhir">
+   <id value="pat05"/>
+   <identifier>
+      <system value="https://fhir.nhs.uk/Id/nhs-number"/>
+      <value value="9435749895"/>
+   </identifier>
+   <name>
+      <family value="Khan"/>
+      <given value="Muhammad"/>
+   </name>
+   <gender value="m"/>
+   <birthDate value=""/>
+   <address>
+      <line value="38 Queen Street"/>
+      <city value="PORTSMOUTH"/>
+      <postalCode value=""/>
+   </address>
+</Patient>

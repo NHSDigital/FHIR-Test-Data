@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patient xmlns="http://hl7.org/fhir">
+   <id value="pat14"/>
+   <identifier>
+      <system value="https://fhir.nhs.uk/Id/nhs-number"/>
+      <value value="9435780156"/>
+   </identifier>
+   <name>
+      <family value="Falconer"/>
+      <given value="Tom"/>
+   </name>
+   <gender value="m"/>
+   <birthDate value=""/>
+   <address>
+      <line value="60 High Street"/>
+      <city value="DURHAM"/>
+      <postalCode value=""/>
+   </address>
+</Patient>
