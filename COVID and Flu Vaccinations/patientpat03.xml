@@ -9,8 +9,8 @@
       <family value="Foster"/>
       <given value="Mark"/>
    </name>
-   <gender value="m"/>
-   <birthDate value=""/>
+   <gender value="male"/>
+   <birthDate value=" 1970-07-01"/>
    <address>
       <line value="587 The Grove"/>
       <city value="HEREFORD"/>

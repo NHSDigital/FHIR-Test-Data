@@ -9,8 +9,8 @@
       <family value="Mason"/>
       <given value="Peter"/>
    </name>
-   <gender value="m"/>
-   <birthDate value=""/>
+   <gender value="male"/>
+   <birthDate value=" 1974-06-20"/>
    <address>
       <line value="17 George Street"/>
       <city value="DARLINGTON"/>

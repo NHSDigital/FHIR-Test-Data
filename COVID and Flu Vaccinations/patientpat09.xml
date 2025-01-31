@@ -9,8 +9,8 @@
       <family value="Robb"/>
       <given value="Jonathan"/>
    </name>
-   <gender value="m"/>
-   <birthDate value=""/>
+   <gender value="male"/>
+   <birthDate value=" 1994-01-01"/>
    <address>
       <line value="636 South Street"/>
       <city value="TORQUAY"/>

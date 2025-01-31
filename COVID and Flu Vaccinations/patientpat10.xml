@@ -9,8 +9,8 @@
       <family value="Rogers"/>
       <given value="Anne"/>
    </name>
-   <gender value="f"/>
-   <birthDate value=""/>
+   <gender value="female"/>
+   <birthDate value=" 1951-10-06"/>
    <address>
       <line value="20 Springfield Road"/>
       <city value="WESTERN CENTRAL LONDON"/>

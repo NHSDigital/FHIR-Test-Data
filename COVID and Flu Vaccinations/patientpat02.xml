@@ -9,8 +9,8 @@
       <family value="Flannery"/>
       <given value="Karen"/>
    </name>
-   <gender value="f"/>
-   <birthDate value=""/>
+   <gender value="female"/>
+   <birthDate value=" 1956-09-25"/>
    <address>
       <line value="56 Park Avenue"/>
       <city value="LINCOLN"/>

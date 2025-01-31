@@ -4,8 +4,8 @@
       <valueCodeableConcept>
          <coding>
             <system value="http://snomed.info/sct"/>
-            <code value="308081000000105"/>
-            <display value="Measles mumps and rubella vaccination - first dose (procedure)"/>
+            <code value="170433008"/>
+            <display value="Administration of second dose of vaccine product containing only Measles morbillivirus and Mumps orthorubulavirus and Rubella virus antigens (procedure)"/>
          </coding>
       </valueCodeableConcept>
    </extension>
@@ -22,10 +22,10 @@
       </coding>
    </vaccineCode>
    <patient>
-      <reference value="Patient/pat11"/>
+      <reference value="Patient/pat15"/>
    </patient>
-   <occurrenceDateTime value="1972-07-22"/>
-   <recorded value="1972-07-22"/>
+   <occurrenceDateTime value="1986-06-06"/>
+   <recorded value="1986-06-06"/>
    <primarySource value="true"/>
    <location>
       <type value="Location"/>
@@ -38,7 +38,7 @@
       <display value="GlaxoSmithKline"/>
    </manufacturer>
    <lotNumber value="51925TJ61"/>
-   <expirationDate value="1972-08-22"/>
+   <expirationDate value="1986-07-06"/>
    <site>
       <coding>
          <system value="http://snomed.info/sct"/>

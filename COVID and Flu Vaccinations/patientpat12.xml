@@ -9,8 +9,8 @@
       <family value="Lee"/>
       <given value="Janet"/>
    </name>
-   <gender value="f"/>
-   <birthDate value=""/>
+   <gender value="female"/>
+   <birthDate value=" 1989-08-03"/>
    <address>
       <line value="97 Kingsway"/>
       <city value="DUDLEY"/>

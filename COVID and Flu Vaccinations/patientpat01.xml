@@ -9,8 +9,8 @@
       <family value="Alden"/>
       <given value="Tony"/>
    </name>
-   <gender value="m"/>
-   <birthDate value=""/>
+   <gender value="male"/>
+   <birthDate value="1981-05-20"/>
    <address>
       <line value="61 London Road"/>
       <city value="CROYDON"/>

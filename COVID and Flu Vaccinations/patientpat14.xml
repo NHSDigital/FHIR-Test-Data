@@ -9,8 +9,8 @@
       <family value="Falconer"/>
       <given value="Tom"/>
    </name>
-   <gender value="m"/>
-   <birthDate value=""/>
+   <gender value="male"/>
+   <birthDate value="1995-04-08"/>
    <address>
       <line value="60 High Street"/>
       <city value="DURHAM"/>
