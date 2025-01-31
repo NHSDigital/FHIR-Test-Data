@@ -9,11 +9,11 @@
       <family value="Page"/>
       <given value="Lorraine"/>
    </name>
-   <gender value="female"/>
+   <gender value="f"/>
    <birthDate value=" 1967-12-08"/>
    <address>
       <line value="49 North Street"/>
       <city value="REDHILL"/>
-      <postalCode value=""/>
+      <postalCode value="RH92 3KV"/>
    </address>
 </Patient>

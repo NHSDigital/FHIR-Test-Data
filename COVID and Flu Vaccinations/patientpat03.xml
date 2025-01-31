@@ -9,11 +9,11 @@
       <family value="Foster"/>
       <given value="Mark"/>
    </name>
-   <gender value="male"/>
+   <gender value="m"/>
    <birthDate value=" 1970-07-01"/>
    <address>
       <line value="587 The Grove"/>
       <city value="HEREFORD"/>
-      <postalCode value=""/>
+      <postalCode value="HR67 4KS"/>
    </address>
 </Patient>

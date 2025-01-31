@@ -9,11 +9,11 @@
       <family value="Hawkins"/>
       <given value="Elaine"/>
    </name>
-   <gender value="female"/>
+   <gender value="f"/>
    <birthDate value=" 1982-06-10"/>
    <address>
       <line value="43 West Street"/>
       <city value="TRURO"/>
-      <postalCode value=""/>
+      <postalCode value="TR89 6TP"/>
    </address>
 </Patient>

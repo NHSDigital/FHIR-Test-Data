@@ -9,11 +9,11 @@
       <family value="Robb"/>
       <given value="Jonathan"/>
    </name>
-   <gender value="male"/>
+   <gender value="m"/>
    <birthDate value=" 1994-01-01"/>
    <address>
       <line value="636 South Street"/>
       <city value="TORQUAY"/>
-      <postalCode value=""/>
+      <postalCode value="TQ45 6HY"/>
    </address>
 </Patient>

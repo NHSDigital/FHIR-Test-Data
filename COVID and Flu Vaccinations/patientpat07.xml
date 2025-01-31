@@ -9,11 +9,11 @@
       <family value="Mason"/>
       <given value="Peter"/>
    </name>
-   <gender value="male"/>
+   <gender value="m"/>
    <birthDate value=" 1974-06-20"/>
    <address>
       <line value="17 George Street"/>
       <city value="DARLINGTON"/>
-      <postalCode value=""/>
+      <postalCode value="DL43 1BK"/>
    </address>
 </Patient>

@@ -9,11 +9,11 @@
       <family value="Lee"/>
       <given value="Janet"/>
    </name>
-   <gender value="female"/>
+   <gender value="f"/>
    <birthDate value=" 1989-08-03"/>
    <address>
       <line value="97 Kingsway"/>
       <city value="DUDLEY"/>
-      <postalCode value=""/>
+      <postalCode value="DY34 3NU"/>
    </address>
 </Patient>

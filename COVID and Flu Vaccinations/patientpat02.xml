@@ -9,11 +9,11 @@
       <family value="Flannery"/>
       <given value="Karen"/>
    </name>
-   <gender value="female"/>
+   <gender value="f"/>
    <birthDate value=" 1956-09-25"/>
    <address>
       <line value="56 Park Avenue"/>
       <city value="LINCOLN"/>
-      <postalCode value=""/>
+      <postalCode value="LN88 5GT"/>
    </address>
 </Patient>

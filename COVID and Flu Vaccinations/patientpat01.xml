@@ -9,11 +9,11 @@
       <family value="Alden"/>
       <given value="Tony"/>
    </name>
-   <gender value="male"/>
+   <gender value="m"/>
    <birthDate value="1981-05-20"/>
    <address>
       <line value="61 London Road"/>
       <city value="CROYDON"/>
-      <postalCode value=""/>
+      <postalCode value="CR19 1YA"/>
    </address>
 </Patient>

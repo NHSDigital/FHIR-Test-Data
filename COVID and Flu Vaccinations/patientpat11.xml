@@ -9,11 +9,11 @@
       <family value="Balderston"/>
       <given value="Martyn"/>
    </name>
-   <gender value="male"/>
+   <gender value="m"/>
    <birthDate value=" 1971-07-22"/>
    <address>
       <line value="9186 Manchester Road"/>
       <city value="BOURNEMOUTH"/>
-      <postalCode value=""/>
+      <postalCode value="BH8 5KC"/>
    </address>
 </Patient>

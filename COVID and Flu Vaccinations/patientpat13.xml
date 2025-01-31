@@ -9,11 +9,11 @@
       <family value="Knipe"/>
       <given value="Adrienne"/>
    </name>
-   <gender value="female"/>
+   <gender value="f"/>
    <birthDate value=" 1971-10-11"/>
    <address>
       <line value="40 Victoria Road"/>
       <city value="CREWE"/>
-      <postalCode value=""/>
+      <postalCode value="CW89 9KW"/>
    </address>
 </Patient>

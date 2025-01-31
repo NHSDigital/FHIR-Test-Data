@@ -9,11 +9,11 @@
       <family value="Rogers"/>
       <given value="Anne"/>
    </name>
-   <gender value="female"/>
+   <gender value="f"/>
    <birthDate value=" 1951-10-06"/>
    <address>
       <line value="20 Springfield Road"/>
       <city value="WESTERN CENTRAL LONDON"/>
-      <postalCode value=""/>
+      <postalCode value="WC71 4CE"/>
    </address>
 </Patient>

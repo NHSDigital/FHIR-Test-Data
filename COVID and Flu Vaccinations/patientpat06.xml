@@ -9,11 +9,11 @@
       <family value="Lakhani"/>
       <given value="Georgina"/>
    </name>
-   <gender value="female"/>
+   <gender value="f"/>
    <birthDate value=" 1966-09-22"/>
    <address>
       <line value="4 Mill Lane"/>
       <city value="NORTHAMPTON"/>
-      <postalCode value=""/>
+      <postalCode value="NN19 5DU"/>
    </address>
 </Patient>
